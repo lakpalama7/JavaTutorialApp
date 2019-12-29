@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/rateongoogleplay"
+        android:title="Rate on Google Play"
+        app:showAsAction="never"></item>
+    <item
+        android:id="@+id/email"
+        android:title="Send Email"
+        app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/about"
+        android:title="About"
+        app:showAsAction="never"></item>
+</menu>

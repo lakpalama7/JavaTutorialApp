@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">JavaTutorial</string>
+
+    <string-array name="javasno">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+
+        <item>6</item>
+        <item>7</item>L̥
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+
+    </string-array>
+    <string-array name="javatopic">
+        <item>Java Introduction</item>
+        <item>Fundamental of Object-Oriented Programming</item>
+        <item>JDK, JRE and JVM</item>
+        <item>Data Types and Variables</item>
+        <item>Operators</item>
+        <item>Decision Making and Looping</item>
+        <item>Class, Object and Methods</item>
+        <item>Number, Character</item>
+        <item>String, Array</item>
+        <item>Inheritance</item>
+        <item>Polymorphism</item>
+        <item>Encapsulation</item>
+        <item>Data Abstraction</item>
+        <item>Abstract classes and Interface</item>
+        <item>Packages</item>
+        <item>File and I/O</item>
+        <item>Exception Handling</item>
+        <item>Multithreading</item>
+        <item>Networking</item>
+        <item>Synchronization</item>
+        <item>Serialization</item>
+        <item>Collection Framework</item>
+        <item>JDBC</item>
+    </string-array>
+</resources>
